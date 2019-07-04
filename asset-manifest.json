@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/brl-to-coin/static/js/main.690d322a.chunk.js",
+    "main.js.map": "/brl-to-coin/static/js/main.690d322a.chunk.js.map",
+    "runtime~main.js": "/brl-to-coin/static/js/runtime~main.9089ba9a.js",
+    "runtime~main.js.map": "/brl-to-coin/static/js/runtime~main.9089ba9a.js.map",
+    "static/js/2.ceb9938a.chunk.js": "/brl-to-coin/static/js/2.ceb9938a.chunk.js",
+    "static/js/2.ceb9938a.chunk.js.map": "/brl-to-coin/static/js/2.ceb9938a.chunk.js.map",
+    "index.html": "/brl-to-coin/index.html",
+    "precache-manifest.29b8e860b0b6a0fa83ccd23ec48b3906.js": "/brl-to-coin/precache-manifest.29b8e860b0b6a0fa83ccd23ec48b3906.js",
+    "service-worker.js": "/brl-to-coin/service-worker.js",
+    "static/media/coins.svg": "/brl-to-coin/static/media/coins.a45dd919.svg"
+  }
+}
