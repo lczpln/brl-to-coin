@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d0f3e4667be41509ef23a7bee45aed6",
+    "revision": "6b3c5980ad9981b23d8401629888440e",
     "url": "/brl-to-coin/index.html"
   },
   {
-    "revision": "f1eccb6d145d3c135f78",
-    "url": "/brl-to-coin/static/js/2.ceb9938a.chunk.js"
+    "revision": "8913fd53b5b822d4bf5e",
+    "url": "/brl-to-coin/static/js/2.0bf6f0e8.chunk.js"
   },
   {
-    "revision": "e0290790f846e71d2a66",
-    "url": "/brl-to-coin/static/js/main.690d322a.chunk.js"
+    "revision": "54286f34e308d3ebcd1e",
+    "url": "/brl-to-coin/static/js/main.d8236ddc.chunk.js"
   },
   {
     "revision": "360fac50bc04b4472026",

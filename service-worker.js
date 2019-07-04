@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/brl-to-coin/precache-manifest.29b8e860b0b6a0fa83ccd23ec48b3906.js"
+  "/brl-to-coin/precache-manifest.3e1db06c25db8d886351eceb65d9afbc.js"
 );
 
 self.addEventListener('message', (event) => {
