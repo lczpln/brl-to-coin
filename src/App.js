@@ -56,11 +56,11 @@ function App() {
             <ul className="grid p-0" style={{ listStyle: "none" }}>
                 {coins.map((coin, _) => (
                     <li
-                        key={_}
-                        className={`${selected === _ && selectedEffect || lastSelected === _ && lastSelectedEffect} d-flex flex-column bg-primary rounded-lg p-2 shadow-lg`}
-                        onClick={() => setNewSelected(_)}
+                        key={_ + 1}
+                        className={`${selected === _ + 1 && selectedEffect || lastSelected === _ + 1 && lastSelectedEffect} d-flex flex-column bg-primary rounded-lg p-2 shadow-lg`}
+                        onClick={() => setNewSelected(_ + 1)}
                     >
-                        {selected !== _ ? (
+                        {selected !== _ + 1 ? (
                             <Fragment>
                                 <span className="text-white text-monospace font-weight-bold mr-4" style={{ fontSize: "22px" }}>
                                     {coin.code}
