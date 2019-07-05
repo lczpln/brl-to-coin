@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="bg-dark" style={{ position: "relative", width: '100%', height: '100%', minHeight: '100vh' }}>
       <div className="d-flex py-4 align-items-center justify-content-center">
-        <h1 className="text-warning ml-4" style={{ fontSize: '46px' }}>C<img src={require("./coins.svg")} alt="" width={40} height={40} />INS PRICE</h1>
+        <h1 className="text-warning" style={{ fontSize: '46px' }}>C<img src={require("./coins.svg")} alt="" width={40} height={40} />INS PRICE</h1>
       </div>
       <ul className="grid p-0" style={{ listStyle: 'none' }}>
         {coins.map(coin => (
